@@ -1,5 +1,0 @@
-k2ystyle.ddns.net
-3306
-alphotec_mytabung
-alphotec_tb
-MyTabung!@
